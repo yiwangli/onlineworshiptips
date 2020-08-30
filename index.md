@@ -32,6 +32,9 @@ PS: (在此特别感谢Scot弟兄让我从匹兹堡教会PCCO Media Team得到�
 ```
 
 
-### _详细内容请下载PDF_
+### 详细内容请下载PDF
+<a href="https://github.com/yellowcowantidote/onlineworshiptips/blob/gh-pages/Zoom%20streaming%20guide.pdf">点击下载</a>
+
+### Poor man's studio setup （哈哈哈
 [![IMG-20200830-101035242.jpg](https://i.postimg.cc/Tw3QPZJZ/IMG-20200830-101035242.jpg)](https://postimg.cc/4KjpL2M5)
 
